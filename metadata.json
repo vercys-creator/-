@@ -1,0 +1,8 @@
+{
+  "name": "Remix 爆款工作台 Master Creator OS",
+  "description": "基于第一性原理万能提示词引擎与专属记忆库的多账号爆款工作台：四维定位、AI专属记忆资产库、一周情绪选题矩阵、拆解经验库、AI图文封面编辑器与数据复盘闭环",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
